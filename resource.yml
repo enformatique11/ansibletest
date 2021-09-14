@@ -1,0 +1,4 @@
+  - name: Creating resource group
+        azure_rm_resourcegroup:
+        name: loveisland
+        location: eastus
